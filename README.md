@@ -11,7 +11,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd my-react-tailwind-boilerplate
+  cd react-tailwind-boilerplate
 ```
 
 Install dependencies
